@@ -1,0 +1,14 @@
+C:\Users\user\Downloads\Start\Start\Overview\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Downloads\Start\Start\Overview\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\Start\Start\Overview\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.AssemblyInfo.cs
+C:\Users\user\Downloads\Start\Start\Overview\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\Start\Start\Overview\MyConsoleApp\bin\Debug\net8.0\MyConsoleApp.exe
+C:\Users\user\Downloads\Start\Start\Overview\MyConsoleApp\bin\Debug\net8.0\MyConsoleApp.deps.json
+C:\Users\user\Downloads\Start\Start\Overview\MyConsoleApp\bin\Debug\net8.0\MyConsoleApp.runtimeconfig.json
+C:\Users\user\Downloads\Start\Start\Overview\MyConsoleApp\bin\Debug\net8.0\MyConsoleApp.dll
+C:\Users\user\Downloads\Start\Start\Overview\MyConsoleApp\bin\Debug\net8.0\MyConsoleApp.pdb
+C:\Users\user\Downloads\Start\Start\Overview\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.dll
+C:\Users\user\Downloads\Start\Start\Overview\MyConsoleApp\obj\Debug\net8.0\refint\MyConsoleApp.dll
+C:\Users\user\Downloads\Start\Start\Overview\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.pdb
+C:\Users\user\Downloads\Start\Start\Overview\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.genruntimeconfig.cache
+C:\Users\user\Downloads\Start\Start\Overview\MyConsoleApp\obj\Debug\net8.0\ref\MyConsoleApp.dll
