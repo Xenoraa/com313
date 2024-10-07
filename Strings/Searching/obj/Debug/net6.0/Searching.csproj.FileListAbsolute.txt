@@ -1,0 +1,14 @@
+C:\Users\user\Downloads\Start\Start\Strings\Searching\bin\Debug\net6.0\Searching.exe
+C:\Users\user\Downloads\Start\Start\Strings\Searching\bin\Debug\net6.0\Searching.deps.json
+C:\Users\user\Downloads\Start\Start\Strings\Searching\bin\Debug\net6.0\Searching.runtimeconfig.json
+C:\Users\user\Downloads\Start\Start\Strings\Searching\bin\Debug\net6.0\Searching.dll
+C:\Users\user\Downloads\Start\Start\Strings\Searching\bin\Debug\net6.0\Searching.pdb
+C:\Users\user\Downloads\Start\Start\Strings\Searching\obj\Debug\net6.0\Searching.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Downloads\Start\Start\Strings\Searching\obj\Debug\net6.0\Searching.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\Start\Start\Strings\Searching\obj\Debug\net6.0\Searching.AssemblyInfo.cs
+C:\Users\user\Downloads\Start\Start\Strings\Searching\obj\Debug\net6.0\Searching.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\Start\Start\Strings\Searching\obj\Debug\net6.0\Searching.dll
+C:\Users\user\Downloads\Start\Start\Strings\Searching\obj\Debug\net6.0\refint\Searching.dll
+C:\Users\user\Downloads\Start\Start\Strings\Searching\obj\Debug\net6.0\Searching.pdb
+C:\Users\user\Downloads\Start\Start\Strings\Searching\obj\Debug\net6.0\Searching.genruntimeconfig.cache
+C:\Users\user\Downloads\Start\Start\Strings\Searching\obj\Debug\net6.0\ref\Searching.dll

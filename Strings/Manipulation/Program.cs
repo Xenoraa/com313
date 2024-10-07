@@ -1,6 +1,8 @@
 ﻿// Application Programming .NET Programming with C# by Abdullahi Tijjani
 // Example file for manipulating string content
 
+using System.Data.Common;
+
 string str1 = "The quick brown fox jumps over the lazy dog.";
 string str2 = "This is a string";
 string str3 = "THIS is a STRING";
@@ -35,8 +37,8 @@ Console.WriteLine(outstr);
 // TODO: String Comparison
 
 // Equals just returns a regular Boolean
-// bool isEqual = str2.Equals(str3);
-// Console.WriteLine($"{isEqual}");
+ bool isEqual = str2.Equals(str3);
+ Console.WriteLine($"{isEqual}");
 
 // Compare will perform an ordinal comparison and return:
 // < 0 : first string comes before second in sort order
@@ -45,3 +47,5 @@ Console.WriteLine(outstr);
 
 
 // TODO: Replacing content
+string outstr1 =str1.Replace("fox","cat");
+Console.WriteLine($"{outstr1}");
