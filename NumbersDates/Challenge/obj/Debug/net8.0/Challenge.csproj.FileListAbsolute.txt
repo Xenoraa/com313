@@ -1,0 +1,15 @@
+C:\Users\user\Downloads\Start\Start\NumbersDates\Challenge\bin\Debug\net8.0\Challenge.exe
+C:\Users\user\Downloads\Start\Start\NumbersDates\Challenge\bin\Debug\net8.0\Challenge.deps.json
+C:\Users\user\Downloads\Start\Start\NumbersDates\Challenge\bin\Debug\net8.0\Challenge.runtimeconfig.json
+C:\Users\user\Downloads\Start\Start\NumbersDates\Challenge\bin\Debug\net8.0\Challenge.dll
+C:\Users\user\Downloads\Start\Start\NumbersDates\Challenge\bin\Debug\net8.0\Challenge.pdb
+C:\Users\user\Downloads\Start\Start\NumbersDates\Challenge\obj\Debug\net8.0\Challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Downloads\Start\Start\NumbersDates\Challenge\obj\Debug\net8.0\Challenge.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\Start\Start\NumbersDates\Challenge\obj\Debug\net8.0\Challenge.AssemblyInfo.cs
+C:\Users\user\Downloads\Start\Start\NumbersDates\Challenge\obj\Debug\net8.0\Challenge.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\Start\Start\NumbersDates\Challenge\obj\Debug\net8.0\Challenge.sourcelink.json
+C:\Users\user\Downloads\Start\Start\NumbersDates\Challenge\obj\Debug\net8.0\Challenge.dll
+C:\Users\user\Downloads\Start\Start\NumbersDates\Challenge\obj\Debug\net8.0\refint\Challenge.dll
+C:\Users\user\Downloads\Start\Start\NumbersDates\Challenge\obj\Debug\net8.0\Challenge.pdb
+C:\Users\user\Downloads\Start\Start\NumbersDates\Challenge\obj\Debug\net8.0\Challenge.genruntimeconfig.cache
+C:\Users\user\Downloads\Start\Start\NumbersDates\Challenge\obj\Debug\net8.0\ref\Challenge.dll

@@ -1,0 +1,15 @@
+C:\Users\user\Downloads\Start\Start\NumbersDates\FormatDates\bin\Debug\net6.0\FormatDates.exe
+C:\Users\user\Downloads\Start\Start\NumbersDates\FormatDates\bin\Debug\net6.0\FormatDates.deps.json
+C:\Users\user\Downloads\Start\Start\NumbersDates\FormatDates\bin\Debug\net6.0\FormatDates.runtimeconfig.json
+C:\Users\user\Downloads\Start\Start\NumbersDates\FormatDates\bin\Debug\net6.0\FormatDates.dll
+C:\Users\user\Downloads\Start\Start\NumbersDates\FormatDates\bin\Debug\net6.0\FormatDates.pdb
+C:\Users\user\Downloads\Start\Start\NumbersDates\FormatDates\obj\Debug\net6.0\FormatDates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Downloads\Start\Start\NumbersDates\FormatDates\obj\Debug\net6.0\FormatDates.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\Start\Start\NumbersDates\FormatDates\obj\Debug\net6.0\FormatDates.AssemblyInfo.cs
+C:\Users\user\Downloads\Start\Start\NumbersDates\FormatDates\obj\Debug\net6.0\FormatDates.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\Start\Start\NumbersDates\FormatDates\obj\Debug\net6.0\FormatDates.sourcelink.json
+C:\Users\user\Downloads\Start\Start\NumbersDates\FormatDates\obj\Debug\net6.0\FormatDates.dll
+C:\Users\user\Downloads\Start\Start\NumbersDates\FormatDates\obj\Debug\net6.0\refint\FormatDates.dll
+C:\Users\user\Downloads\Start\Start\NumbersDates\FormatDates\obj\Debug\net6.0\FormatDates.pdb
+C:\Users\user\Downloads\Start\Start\NumbersDates\FormatDates\obj\Debug\net6.0\FormatDates.genruntimeconfig.cache
+C:\Users\user\Downloads\Start\Start\NumbersDates\FormatDates\obj\Debug\net6.0\ref\FormatDates.dll
