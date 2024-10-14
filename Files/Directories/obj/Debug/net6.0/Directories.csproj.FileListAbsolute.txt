@@ -1,0 +1,15 @@
+C:\Users\user\Downloads\Start\Start\Files\Directories\bin\Debug\net6.0\Directories.exe
+C:\Users\user\Downloads\Start\Start\Files\Directories\bin\Debug\net6.0\Directories.deps.json
+C:\Users\user\Downloads\Start\Start\Files\Directories\bin\Debug\net6.0\Directories.runtimeconfig.json
+C:\Users\user\Downloads\Start\Start\Files\Directories\bin\Debug\net6.0\Directories.dll
+C:\Users\user\Downloads\Start\Start\Files\Directories\bin\Debug\net6.0\Directories.pdb
+C:\Users\user\Downloads\Start\Start\Files\Directories\obj\Debug\net6.0\Directories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Downloads\Start\Start\Files\Directories\obj\Debug\net6.0\Directories.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\Start\Start\Files\Directories\obj\Debug\net6.0\Directories.AssemblyInfo.cs
+C:\Users\user\Downloads\Start\Start\Files\Directories\obj\Debug\net6.0\Directories.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\Start\Start\Files\Directories\obj\Debug\net6.0\Directories.sourcelink.json
+C:\Users\user\Downloads\Start\Start\Files\Directories\obj\Debug\net6.0\Directories.dll
+C:\Users\user\Downloads\Start\Start\Files\Directories\obj\Debug\net6.0\refint\Directories.dll
+C:\Users\user\Downloads\Start\Start\Files\Directories\obj\Debug\net6.0\Directories.pdb
+C:\Users\user\Downloads\Start\Start\Files\Directories\obj\Debug\net6.0\Directories.genruntimeconfig.cache
+C:\Users\user\Downloads\Start\Start\Files\Directories\obj\Debug\net6.0\ref\Directories.dll
